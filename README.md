@@ -1,8 +1,14 @@
 # binary-summator
 
-<pre>
-
 Sample of Binary Summator, Little Indian
+
+One day, I thought about how I could clearly explain to a person not from the IT sphere why the main numeral system for computers is binary.
+
+This is easy to understand if you work closely with computers yourself. Otherwise, you need to show the person a real example that you can kind of touch.
+
+Adding two numbers illustrates this feature very well. If you want, you can assemble a binary summator (adder) with analog components or even with mechanical ones.
+
+<pre>
 
 ~Helper table: dec to bin
     0:  0000
